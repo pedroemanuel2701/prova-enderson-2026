@@ -29,5 +29,14 @@
 ## UC4 - Encerrar bilhete
     `GET /relatorios/diario?data=AAAA-MM-DD`
 
-## UC5 - Encerrar bilhete
+## UC5 - Cancelar bilhete
     `POST /bilhetes/{id}/cancelamento`
+
+## UC6 - Histórico por placa
+    `GET /bilhetes?placa=ABC1D23`
+
+## UC7 - Tolerância gratuita
+
+## UC8 - Uma vaga por placa
+    `POST /bilhetes`
+
