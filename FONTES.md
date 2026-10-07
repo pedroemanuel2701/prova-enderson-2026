@@ -9,13 +9,8 @@
 
 ## 1. Sites / documentação consultados
 
-> [!NOTE]
-> **Só contam linhas numeradas da tabela** (`| 1 | <URL> | ...`). Links em
-> texto corrido — inclusive o exemplo logo abaixo — **não são contados**
-> como fonte declarada.
-
 | # | URL | O que foi consultado | Onde aparece no entregável |
-| --- | --- | --- | --- |
+| 1 | https://docs.github.com/pt/get-started/writing-on-github/working-with-advanced-formatting/autolinked-references-and-urls | o lado certo das " ```` " | -- |
 | — | | | |
 
 *(Ex.: `https://docs.oracle.com/...` → sintaxe de `Optional` → `plan.md` na
@@ -24,23 +19,7 @@ conta. Se nenhum site foi consultado, escreva: **"Nenhum site consultado."**)*
 
 ## 2. Uso de IA — **somente como consulta**
 
-> [!WARNING]
-> Usar IA **como agente** (ela edita arquivos, executa comandos, roda testes no
-> seu lugar) é **proibido** e zera a prova. Usar IA como consulta (perguntas,
-> explicações de conceito, revisão pontual, trechos que você copiou e entende) é
-> permitido **desde que**:
-
-1. a conversa seja **compartilhada** (botão Share) e o link fique **público**
-   (ou acessível ao professor);
-2. o link seja registrado abaixo, indicando **onde** o conteúdo foi usado;
-3. você seja capaz de **explicar qualquer trecho** que a IA produziu — na
-   dúvida, o professor pede o link e pergunta sobre o código.[^plagio]
-
-| # | Link público da conversa | Onde o conteúdo foi usado |
-| --- | --- | --- |
-| — | | |
-
-*(Se nenhuma IA foi utilizada, escreva: **"Nenhuma IA utilizada."**)*
+https://share.gemini.google/BPL3EUpz0RBN
 
 ## 3. Compromisso
 
@@ -48,7 +27,7 @@ Declaro que todo o conteúdo deste repositório que não é de minha autoria dir
 está declarado acima, e que consigo explicar qualquer trecho entregue — tenha
 ele vindo da minha cabeça, de um site ou de uma IA consultada.
 
-**Nome / RA:**
+**Nome / RA:** Pedro Emanuel Ferreira de Andrade ; 23167567-2
 
 [^transparencia]: Este arquivo é, ele mesmo, um exemplo de markdown bem
     usado: *alert* para a regra crítica, tabelas para os registros e *footnote*
